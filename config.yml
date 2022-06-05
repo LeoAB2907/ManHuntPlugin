@@ -1,0 +1,36 @@
+#==============================================#
+#                                              #
+#              MAN HUNT v beta1.7               #
+#                                              # 
+#==============================================#
+
+# Prefix
+prefix: '&4[ManHunt]'
+
+# Killer instakills speedrunner?
+# true or false
+killer-instakill: false
+
+# Killers get compass?
+# true or false
+compass-enabled: true
+
+# Killers get compass after respawning?
+# true or false
+compass-give: true
+
+# Speedrunner freezes killer when seen?
+# true or false
+freeze-hunter-when-seen: false
+
+# Compass random when speedrunner is in a different world?
+# true or false
+compass-random-different-worlds: true
+
+# Runner nametag invisible?
+# true or false
+runner-nametag-invisible: false
+
+# Draw line to speedrunner?
+# true or false
+draw-line: false

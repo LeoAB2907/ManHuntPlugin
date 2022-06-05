@@ -1,0 +1,15 @@
+name: ManHunt
+version: beta1.7
+main: xyz.leonardoarias.plugins.manHunt.ManHunt
+author: LeoAB2907
+description: Recreates the Man Hunt game mode from Dream's videos
+commands:
+  hunter:
+    description: Sets player as killer
+    aliases: [k, assassin, killer]
+  runner:
+    description: Sets player as runner
+    aliases: [sr, speedrunner, prey]
+  manhunt:
+    description: Shows the current teams
+    aliases: [mh, game]
